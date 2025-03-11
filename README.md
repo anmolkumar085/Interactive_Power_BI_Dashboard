@@ -13,14 +13,15 @@ The **Mobile Sales Dashboard** is an interactive Power BI dashboard that provide
 
 ## Dashboard Screenshots
 ### 1. Main Dashboard
-![Mobile Sales Dashboard](![image](https://github.com/user-attachments/assets/1d775218-219b-4455-957e-6c748bb67bb6)
-)
+![image](https://github.com/user-attachments/assets/1d775218-219b-4455-957e-6c748bb67bb6)
 
 ### 2. MTD (Month-to-Date) Report
-![MTD Report](MTD%20Report.jpg)
+![image](https://github.com/user-attachments/assets/2701c3ff-dfd1-4830-827f-3a9a8a2a2e7a)
+
 
 ### 3. Same Period Last Year Comparison
-![Same Period Last Year Report](Same%20Period%20Last%20Year%20report.jpg)
+![image](https://github.com/user-attachments/assets/9102130a-c48e-4114-8689-288d27d3bb7f)
+
 
 ## Data Insights
 - **Total Sales**: 769M
@@ -48,4 +49,4 @@ The **Mobile Sales Dashboard** is an interactive Power BI dashboard that provide
 - More granular customer behavior analysis.
 
 ## Author
-**Sk Singh (JWO)**
+**Anmol Kumar Singh**
