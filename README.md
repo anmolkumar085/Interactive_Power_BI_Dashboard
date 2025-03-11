@@ -1,52 +1,19 @@
-# Mobile Sales Dashboard
-
-## Overview
-The **Mobile Sales Dashboard** is an interactive Power BI dashboard that provides key insights into mobile phone sales. It includes data visualizations related to total sales, transactions, average price, sales by city, mobile model, and payment method trends.
-
-## Features
-- **Total Sales Analysis**: Displays overall revenue from mobile sales.
-- **Sales Trends**: Monthly and daily trends for better forecasting.
-- **City-wise Sales Distribution**: Identifies top-performing regions.
-- **Mobile Model Breakdown**: Compares sales performance of different models.
-- **Payment Method Analysis**: Highlights trends in digital and cash transactions.
-- **Customer Ratings**: Shows product feedback based on customer ratings.
-
-## Dashboard Screenshots
-### 1. Main Dashboard
-![image](https://github.com/user-attachments/assets/1d775218-219b-4455-957e-6c748bb67bb6)
-
-### 2. MTD (Month-to-Date) Report
-![image](https://github.com/user-attachments/assets/2701c3ff-dfd1-4830-827f-3a9a8a2a2e7a)
+# Power_BI_Dashboard
+Files related Interactive Dashboard in Power BI Lesson video available on YouTube
+<Br>
 
 
-### 3. Same Period Last Year Comparison
-![image](https://github.com/user-attachments/assets/9102130a-c48e-4114-8689-288d27d3bb7f)
 
 
-## Data Insights
-- **Total Sales**: 769M
-- **Total Quantity Sold**: 19K units
-- **Top-Selling Mobile Models**:
-  - iPhone SE: 60M
-  - OnePlus Nord: 58M
-  - Galaxy Note 20: 56M
-- **Top Cities for Sales**: Mumbai, Delhi, Bangalore, Kolkata, Chennai
-- **Popular Payment Methods**: UPI, Credit Card, Debit Card, Cash (each around 24-26%)
+👉 Watch Video : <br><br>
 
-## How to Use
-1. **Filter Data**: Use dropdowns to filter by **Mobile Model, Payment Method, and Brand**.
-2. **Select Time Period**: Choose a month from the left-side menu to see detailed sales data.
-3. **Compare Data**: View and analyze trends with past data for strategic planning.
+[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
+<br><br>
+👉 You will be able to build Dashboard like below <br><br>
+👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+<br><br>
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
 
-## Technologies Used
-- **Power BI** for data visualization
-- **SQL** for data processing
-- **Excel/CSV** for data storage
 
-## Future Enhancements
-- Predictive analytics for future sales trends.
-- Integration with real-time sales data.
-- More granular customer behavior analysis.
-
-## Author
-**Anmol Kumar Singh**
