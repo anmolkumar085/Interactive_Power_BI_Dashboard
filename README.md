@@ -11,6 +11,10 @@ The **Mobile Sales Dashboard** is an interactive Power BI dashboard that provide
 - **Payment Method Analysis**: Highlights trends in digital and cash transactions.
 - **Customer Ratings**: Shows product feedback based on customer ratings.
 
+## Interactive Dashboard
+
+🔗 [Click here to view interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Dashboard Screenshots
 ### 1. Main Dashboard
 ![image](https://github.com/user-attachments/assets/99e0e4ae-f125-4d2e-80dd-fbca12c39e49)
